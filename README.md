@@ -1,5 +1,5 @@
 # WORK IN PROGRESS
-Content still to be added
+Content still to be added in upcoming days
 ***
 
 # Machine Learning projects part of curriculum
