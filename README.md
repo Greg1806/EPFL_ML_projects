@@ -7,7 +7,7 @@ Several ML projects I worked on while attending "Applied Data Science: Machine L
 
 ## ML Projects description
 * **Linear Regression:**
-  * Bike sharing users (note greg: simple + feature engineering)
+  * Bike_sharing_users - predict number of users each day
   * House price (note greg: unit 2 + regul)
 * **k-NN:**
   * MNIST image recognition
