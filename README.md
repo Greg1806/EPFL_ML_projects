@@ -8,7 +8,7 @@ Several ML projects I worked on while attending "Applied Data Science: Machine L
 ## ML Projects description
 * **Linear Regression:**
   * Bike_sharing_users - predict number of users each day
-  * House price (note greg: unit 2 + regul)
+  * House_prices_vFinal - predict price of houses
 * **k-NN:**
   * MNIST image recognition
   * CIFAR-10 image recognition (incl.parameters tuning)
