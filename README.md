@@ -28,8 +28,8 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
   * DecisionTree, RandomForest and SVMs comparison on Spiral data set
 * **PCA - dimensionality reduction:** - *"pca_visualize_clusters"*
   * Visualize MNIST images clusters on 2 and 3 dimension axis
-* **Neural Networks**
-  * CIFAR-10 Image classification
+* **Neural Networks** - *"NN_image_classification"*
+  * CIFAR-10 Image classification using TensorFlow capabilities
 
 * *Non-ML projects*
   * *Open Food bank*
