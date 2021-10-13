@@ -20,7 +20,7 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
   * Bike sharing users - predict number of users each day
 * **k-NN:** - *"knn_image_recognition_epfl"*
   * MNIST image recognition
-  * CIFAR-10 image recognition (incl.parameters tuning)
+  * CIFAR-10 image recognition (incl. parameters tuning)
 * **Logistic Regression:**
   * Heart disease diagnosis
 * **Trees and SVMs:**
