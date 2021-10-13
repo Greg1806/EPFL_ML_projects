@@ -2,10 +2,14 @@
 Content still to be added in upcoming days
 ***
 
-# Machine Learning projects part of curriculum
+# Machine Learning projects and exercises part of curriculum
 Several ML projects I worked on while attending "Applied Data Science: Machine Learning" course at EPFL in Lausanne
 
-## ML Projects description
+## ML projects descrition
+* **House price prediction**
+* **Image classifier**
+
+## ML exercises description
 * **Linear Regression:**
   * Bike_sharing_users - predict number of users each day
   * House_prices_vFinal - predict price of houses
