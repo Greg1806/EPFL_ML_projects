@@ -21,8 +21,8 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
 * **k-NN:** - *"knn_image_recognition_epfl"*
   * MNIST image recognition
   * CIFAR-10 image recognition (incl. parameters tuning)
-* **Logistic Regression:**
-  * Heart disease diagnosis
+* **Logistic Regression:** - *"logreg_heart_disease_diagnosis"*
+  * Heart disease diagnosis using grid search and cross-validation
 * **Trees and SVMs:**
   * DecisionTree on Titanic data set
   * DecisionTree, RandomForest and SVMs comparison on Spiral data set
