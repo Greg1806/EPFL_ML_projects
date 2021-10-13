@@ -6,7 +6,9 @@ Content still to be added in upcoming days
 Several ML projects I worked on while attending "Applied Data Science: Machine Learning" course at EPFL in Lausanne
 
 ## ML projects descrition
-* **House price prediction** - *House_prices_vFinal"*
+* **House price prediction** - *"House_prices_vFinal"*
+  * Predict house prices through Linear Regression using a real data set with 2'930 observations and 82 variables
+  * Includes EDA, Data cleaning, Feature engineering, Feature encoding and modelling fitting using Grid Search
 * **Image classifier** - 
 
 ## ML exercises description
