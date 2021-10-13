@@ -16,9 +16,9 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
 
 
 ## ML exercises description
-* **Linear Regression:**
-  * Bike_sharing_users - predict number of users each day
-* **k-NN:**
+* **Linear Regression:** - *"Bike_sharing_users"*
+  * Bike sharing users - predict number of users each day
+* **k-NN:** - *"knn_image_recognition_epfl"*
   * MNIST image recognition
   * CIFAR-10 image recognition (incl.parameters tuning)
 * **Logistic Regression:**
