@@ -30,7 +30,3 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
   * Visualize MNIST images clusters on 2 and 3 dimension axis
 * **Neural Networks** - *"NN_image_classification"*
   * CIFAR-10 Image classification using TensorFlow capabilities
-
-* *Non-ML projects*
-  * *Open Food bank*
-  * *World Happiness report*
