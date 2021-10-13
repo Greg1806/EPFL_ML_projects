@@ -22,7 +22,7 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
   * MNIST image recognition
   * CIFAR-10 image recognition (incl.parameters tuning)
 * **Logistic Regression:**
-  * Heart disease diangosis
+  * Heart disease diagnosis
 * **Trees and SVMs:**
   * DecisionTree on Titanic data set
   * DecisionTree, RandomForest and SVMs comparison on Spiral data set
