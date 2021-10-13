@@ -9,7 +9,11 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
 * **House price prediction** - *"House_prices_vFinal"*
   * Predict house prices through Linear Regression using a real data set with 2'930 observations and 82 variables
   * Includes EDA, Data cleaning, Feature engineering, Feature encoding and modelling fitting using Grid Search
-* **Image classifier** - 
+* **Image classifier** - *"Swissroads_..." => split in 9 workbooks due to size and performance limitations*
+  * Build an image classifier using *Swissroads* dataset which contains several hundreds images of vehicles found in the EPFL in Lausanne
+  * Goal of the project is to test different classifiers and techniques using high-level features extracted with a pretrained convolutional neural network from TensorFlow Hub and compare results with own ConvNet implementation trained fomr the raw image pixels
+    * classifiers: k-NN, Decision Tree, Logistic Regression, Random Forest, SVMs, Keras
+
 
 ## ML exercises description
 * **Linear Regression:**
