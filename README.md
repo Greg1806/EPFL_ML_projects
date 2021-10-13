@@ -1,7 +1,3 @@
-# WORK IN PROGRESS
-Content still to be added in upcoming days
-***
-
 # Machine Learning projects and exercises part of curriculum
 Several ML projects and exercises I worked on while attending "Applied Data Science: Machine Learning" course at EPFL in Lausanne
 
