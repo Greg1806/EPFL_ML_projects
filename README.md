@@ -26,8 +26,8 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
 * **Trees and SVMs:**
   * DecisionTree on Titanic data set
   * DecisionTree, RandomForest and SVMs comparison on Spiral data set
-* **PCA:**
-  * Visualize MNIST
+* **PCA - dimensionality reduction:** - *"pca_visualize_clusters"*
+  * Visualize MNIST images clusters on 2 and 3 dimension axis
 * **Neural Networks**
   * CIFAR-10 Image classification
 
