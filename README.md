@@ -23,7 +23,7 @@ Several ML projects and exercises I worked on while attending "Applied Data Scie
   * CIFAR-10 image recognition (incl. parameters tuning)
 * **Logistic Regression:** - *"logreg_heart_disease_diagnosis"*
   * Heart disease diagnosis using grid search and cross-validation
-* **Trees and SVMs:**
+* **Trees and SVMs:** - *"trees_svms_epfl"*
   * DecisionTree on Titanic data set
   * DecisionTree, RandomForest and SVMs comparison on Spiral data set
 * **PCA - dimensionality reduction:** - *"pca_visualize_clusters"*
