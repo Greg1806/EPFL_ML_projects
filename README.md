@@ -6,13 +6,12 @@ Content still to be added in upcoming days
 Several ML projects I worked on while attending "Applied Data Science: Machine Learning" course at EPFL in Lausanne
 
 ## ML projects descrition
-* **House price prediction**
-* **Image classifier**
+* **House price prediction** - *House_prices_vFinal"*
+* **Image classifier** - 
 
 ## ML exercises description
 * **Linear Regression:**
   * Bike_sharing_users - predict number of users each day
-  * House_prices_vFinal - predict price of houses
 * **k-NN:**
   * MNIST image recognition
   * CIFAR-10 image recognition (incl.parameters tuning)
